@@ -1,0 +1,11 @@
+.stat-trend {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: var(--font-xs);
+  font-weight: 600;
+  margin-left: auto;
+  padding: 4px 8px;
+  background: var(--success-bg);
+  border-radius: var(--radius-full);
+}
